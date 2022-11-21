@@ -1,0 +1,86 @@
+number,countries visited,low temperature,high temperature,ideal weather condition
+1,19,60,70,Sunny
+2,13,80,90,Sunny
+3,15,70,40,Mostly Cloudy
+4,2,60,70,Sunny
+5,6,60,70,Sunny
+6,3,60,70,Sunny
+7,10,50,60,Partly Cloudy
+8,5,30,40,Sunny
+9,10,50,60,Partly Cloudy
+10,7,50,60,Partly Cloudy
+11,4,50,60,Partly Cloudy
+12,3,30,40,Partly Cloudy
+13,7,60,70,Partly Cloudy
+14,9,70,40,Sunny
+15,16,50,60,Rain
+16,6,0,30,Sunny
+17,7,70,40,Sunny
+18,3,60,70,Thunder Storm
+19,2,60,70,Thunder Storm
+20,3,60,70,Partly Cloudy
+21,5,40,50,Partly Cloudy
+22,4,60,70,Sunny
+23,2,80,90,Partly Cloudy
+24,2,70,40,Sunny
+25,6,80,90,Sunny
+26,4,60,70,Mostly Cloudy
+27,4,50,60,Partly Cloudy
+28,8,60,70,Partly Cloudy
+29,4,80,90,Partly Cloudy
+30,6,60,70,Partly Cloudy
+31,3,60,70,Partly Cloudy
+32,8,40,50,Partly Cloudy
+33,9,60,70,Sunny
+34,2,50,60,Sunny
+35,11,50,60,Partly Cloudy
+36,4,60,70,Sunny
+37,14,60,70,Partly Cloudy
+38,7,60,70,Sunny
+39,3,60,70,Partly Cloudy
+40,7,60,70,Rain
+41,11,60,70,Partly Cloudy
+42,11,60,70,Partly Cloudy
+43,2,60,70,Partly Cloudy
+44,4,70,40,Partly Cloudy
+45,13,60,70,Sunny
+46,6,60,70,Partly Cloudy
+47,3,60,70,Partly Cloudy
+48,3,60,70,Partly Cloudy
+49,5,60,70,Partly Cloudy
+50,2,60,70,Mostly Cloudy
+51,6,60,70,Partly Cloudy
+52,10,60,70,Sunny
+53,9,70,40,Sunny
+54,2,40,50,Cloudy
+55,2,70,40,Partly Cloudy
+56,11,60,70,Cloudy
+57,3,60,70,Partly Cloudy
+58,2,50,60,Partly Cloudy
+59,8,60,70,Partly Cloudy
+60,1,70,40,Sunny
+61,3,60,70,Sunny
+62,3,70,40,Partly Cloudy
+63,5,30,40,Cloudy
+64,7,60,70,Partly Cloudy
+65,3,70,40,Sunny
+66,2,70,40,Sunny
+67,12,60,70,Cloudy
+68,5,70,40,Sunny
+69,8,70,40,Sunny
+70,3,40,50,Rain
+71,8,70,40,Mostly Cloudy
+72,5,50,60,Sunny
+73,5,50,60,Sunny
+74,3,60,70,Sunny
+75,2,50,60,Partly Cloudy
+76,15,60,70,Partly Cloudy
+77,4,50,60,Sunny
+78,7,70,40,Sunny
+79,3,60,70,Sunny
+80,7,80,90,Sunny
+81,3,60,70,Mostly Cloudy
+82,1,80,90,Partly Cloudy
+83,3,60,70,Sunny
+84,4,60,70,Sunny
+85,3,50,60,Partly Cloudy
